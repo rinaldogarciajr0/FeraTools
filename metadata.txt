@@ -14,4 +14,3 @@ icon=icon.svg
 experimental=True
 deprecated=False
 hasProcessingProvider=False
-tags=area,hectares,shapefile,exportacao,coordenadas,x,y,plantio,grade,pontos
