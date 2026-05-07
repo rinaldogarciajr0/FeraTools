@@ -1,0 +1,17 @@
+[general]
+name=FeraTools
+qgisMinimumVersion=3.22
+description=Reune em um unico plugin as ferramentas de area em hectares, exportacao para Shapefile, captura de coordenadas, linhas de plantio e outras.
+version=1.0.0
+author=Rinaldo Garcia
+email=rinaldo.garciajr0@gmail.com
+homepage=https://github.com/rinaldogarciajr0/FeraTools
+repository=https://github.com/rinaldogarciajr0/FeraTools
+tracker=https://github.com/rinaldogarciajr0/FeraTools/issues
+about=FeraTools adiciona utilidades ao QGIS: criar/atualizar area em hectares, exportar camada para Shapefile, preencher coordenadas X/Y, criar linhas de plantio em grade de pontos e outras.
+category=Vector
+icon=icon.svg
+experimental=True
+deprecated=False
+hasProcessingProvider=False
+tags=area,hectares,shapefile,exportacao,coordenadas,x,y,plantio,grade,pontos
